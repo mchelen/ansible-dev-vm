@@ -50,7 +50,7 @@ To start this party:
 
 #### Using browser
 
-1) type ``ifconfig`` in the vm. Grab the IP number from the eth0. for virtualbox this should just be 33.33.33.33. For VMware it wil be something like 192.168.231.132.
+1) type ``ifconfig`` in the vm. Grab the IP number from the eth0. for virtualbox this should just be 33.33.33.66. For VMware it wil be something like 192.168.231.132.
 2) add the ip address and site name to the /etc/hosts file. type: "sudo vim /etc/hosts" and enter IP_ADDRESS URL for any sites you use on the vm. 
 
 Example:
